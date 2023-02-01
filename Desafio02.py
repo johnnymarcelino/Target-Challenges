@@ -28,6 +28,6 @@ while b < num:
 
 print(fibonacci)
 if num in fibonacci:
-    print('O número informado pertence a sequência de Fibonacci.')
+    print('O número informado pertence a sequência de Fibonacci')
 else:
-    print('O número informado não pertence a sequência de Fibonacci.')
+    print('O número informado não pertence a sequência de Fibonacci')
