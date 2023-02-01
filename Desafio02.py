@@ -1,4 +1,4 @@
-# Desafio #02
+# Desafio - 02
 
 '''
 2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor
